@@ -1,0 +1,221 @@
+,abbreviation,fullName,corecoID
+0,12dgr180,"1,2-Diacyl-sn-glycerol",
+1,12ppd_S,"(S)-Propane-1,2-diol",C00583
+2,15dap,"1,5-Diaminopentane",C01672
+3,26dap_M,"Meso-2,6-Diaminoheptanedioate",C00680
+4,2dmmq8,2-Demethylmenaquinone 8,
+5,2obut,2-Ketobutyric acid,C00109
+6,2pg,2-Phospho-D-glyceric acid,C00631
+8,4abut,gamma-Aminobutyric acid,C00334
+9,4abz,4-Aminobenzoate,
+10,4hbz,4-Hydroxybenzoic acid,C00156
+11,4hphac,p-Hydroxyphenylacetic acid,C00642
+12,ac,Acetic acid,C00033
+13,acac,Acetoacetic acid,C00164
+14,acald,Acetaldehyde,C00084
+15,acgam,N-Acetyl-D-glucosamine,C00140
+16,acnam,N-Acetylneuraminic acid,C19910
+17,ade,Adenine,C00147
+18,adn,Adenosine,C00212
+19,akg,Oxoglutaric acid,C00026
+21,ala_L,L-Alanine,C00133
+22,alaasp,L-alanyl-L-aspartate,Cluster3898
+23,alaglu,L-alanyl-L-glutamate,Cluster4793
+24,alagly,L-alanylglycine,Cluster774
+25,alahis,Carnosine,Cluster5933
+26,alaleu,L-alanyl-L-leucine,Cluster2744
+27,alathr,L-alanyl-L-threonine,Cluster843
+28,alltn,Allantoin,C01551
+29,amp,Adenosine monophosphate,C00020
+30,arab_D,D-Arabinose,
+31,arab_L,L-Arabinose,C00259
+32,arabinan101,Arabinan,C02474
+34,arg_L,L-Arginine,C00062
+35,asn_L,L-Asparagine,C00152
+36,asp_L,L-Aspartic acid,C00049
+37,bglc,Beta-Glucans,CHEBI37671
+38,btn,Biotin,C00120
+39,but,Butyric acid,C00246
+41,cellb,Cellobiose,
+42,cgly,Cysteinylglycine,C01419
+43,ch4s,Methanethiol,C00409
+44,chol,Choline,C00114
+45,chor,Chorismate,C00251
+46,cit,Citric acid,C00158
+47,cl,Chloride ion,
+48,co2,Carbon dioxide,C00011
+50,csn,Cytosine,C00380
+51,cu2,Cu2+,
+52,cys_L,L-Cysteine,C00097
+53,cytd,Cytidine,C00475
+54,dad_2,Deoxyadenosine,C00559
+55,dca,Capric acid,C01571
+56,dcyt,Deoxycytidine,C00881
+57,ddca,Dodecanoic acid,C02679
+59,dgsn,Deoxyguanosine,C00330
+60,dha,Dihydroxyacetone,C00184
+61,din,Deoxyinosine,C05512
+62,drib,Deoxyribose,C01801
+63,duri,Deoxyuridine,C00526
+64,etha,Ethanolamine,C00189
+65,etoh,Ethanol,C00469
+66,fald,Formaldehyde,C00067
+67,fe2,Fe2+,CHEBI29033
+68,fe3,Fe3+,CHEBI29034
+69,fol,Folic acid,C00504
+70,for,Formic acid,C00058
+71,fru,D-Fructose,C00095
+73,fum,Fumaric acid,C00122
+74,g3pc,Glycerophosphocholine,C00670
+75,g6p,Glucose 6-phosphate,C00092
+76,gal,D-Galactose,C00124
+77,gam,Glucosamine,C00329
+78,gcald,Glycolaldehyde,C00266
+79,glc_D,D-Glucose,C00031
+80,glcn,Gluconic acid,C00257
+81,glcur,D-Glucuronic acid,C00191
+82,gln_L,L-Glutamine,C00064
+83,glu_D,D-Glutamate,
+84,glu_L,L-Glutamic acid,C00025
+85,gly,Glycine,C00037
+86,glyb,Betaine,C00719
+87,glyc,Glycerol,C00116
+88,glyc3p,Glycerol 3-phosphate,C00093
+89,glyclt,Glycolic acid,C00160
+90,glygln,Glycyl-L-glutamine,Cluster419
+91,glyglu,Glycyl-L-glutamate,Cluster4672
+92,glymet,Glycyl-L-methionine,
+93,gsn,Guanosine,C00387
+94,gthox,Oxidized glutathione,C00127
+95,gthrd,Glutathione,C00051
+96,gua,Guanine,C00242
+98,h2,Hydrogen,C00282
+99,h2o,Water,C00001
+100,h2s,H2S,
+102,hdca,Palmitic acid,C00249
+103,hdcea,Palmitoleic acid,C08362
+104,his_L,L-Histidine,C00135
+105,hxan,Hypoxanthine,C00262
+106,ile_L,L-Isoleucine,C00407
+107,indole,Indole,C00463
+108,ins,Inosine,C00294
+110,isocapr,Isocaproic acid,
+113,kestopt,Kestopentaose,
+114,lac_D,D-Lactic acid,C00256
+115,lac_L,L-Lactic acid,C00186
+116,lanost,Lanosterin,C01724
+118,leu_L,L-Leucine,C00123
+119,lmn30,Laminarin,
+120,lys_L,L-Lysine,C00047
+121,mal_L,L-Malic acid,C00149
+122,malt,D-Maltose,C00208
+123,malttr,Maltotriose,CHEBI27931
+124,man,D-Mannose,C00159
+125,melib,Triacylglycerol,
+126,meoh,Methanol,C00132
+127,met_L,L-Methionine,C00073
+128,metsox_S_L,L-Methionine Sulfoxide,
+129,mg2,Magnesium,
+130,mn2,Mn2+,
+131,mnl,D-Mannitol,C00392
+132,mqn7,Menaquinone-7,
+133,mqn8,Menaquinone-8,
+134,n2,Nitrogen,
+135,nac,Nicotinic acid,C00253
+136,ncam,Niacinamide,C00153
+137,nh4,Ammonia,C01342
+138,nmn,Nicotinamide ribotide,C00455
+139,no,Nitric oxide,CHEBI16480
+140,no2,Nitrite,C00088
+141,o2,Oxygen,C00007
+142,ocdca,Stearic acid,C01530
+143,ocdcea,Oleic acid,C00712
+144,octa,Caprylic acid,C06423
+145,orn,Ornithine,C00077
+146,oxa,Oxalic acid,C00209
+147,pect,Pectin,CHEBI17309
+148,phe_L,L-Phenylalanine,C00079
+149,pheme,Heme,C00032
+150,pi,Phosphate,C00009
+151,pnto_R,Pantothenic acid,C00864
+152,ppa,Propionic acid,C00163
+153,ppi,Pyrophosphate,C00013
+154,pro_L,L-Proline,C00148
+155,ptrc,Putrescine,C00134
+156,pydam,Pyridoxamine,C00534
+157,pydx,Pyridoxal,C00250
+158,pydxn,Pyridoxine,C00314
+159,pyr,Pyruvic acid,C00022
+160,q8,Ubiquinone-8,
+161,raffin,Raffinose,
+162,rib_D,D-Ribose,C00121
+163,ribflv,Riboflavin,C00255
+164,rmn,L-Rhamnose,
+165,s,Sulfur,
+166,ser_L,L-Serine,C00065
+167,sheme,Siroheme,
+168,so3,Sulfite,C00094
+169,so4,Sulfate,C00059
+170,spmd,Spermidine,C00315
+171,strch1,Starch,
+172,succ,Succinic acid,C00042
+173,sucr,Sucrose,C00089
+174,thm,Thiamine,C00378
+175,thr_L,L-Threonine,C00188
+176,thym,Thymine,C00178
+177,thymd,Thymidine,C00214
+179,trp_L,L-Tryptophan,C00078
+180,trypta,Tryptamine,C00398
+181,tsul,Thiosulfate,C00320
+182,ttdca,Myristic acid,C06424
+183,tym,Tyramine,C00483
+184,tyr_L,L-Tyrosine,C00082
+185,ura,Uracil,C00106
+186,urate,Uric acid,C00366
+187,urea,Urea,C00086
+188,uri,Uridine,C00299
+189,val_L,L-Valine,C00183
+190,xan,Xanthine,C00385
+191,xyl_D,D-Xylose,C00181
+193,fe3dcit,Fe(III)dicitrate,
+194,,2-methylbutan-1-ol,CHEBI48945
+195,,gly-asn,Cluster2052
+196,,trans-3'-hydroxycotinine,Cluster3631
+197,,"2-oxopenta-3,4-dienoate",Cluster168
+199,,2-methylbutanal,C02223
+200,,methylamine,C00218
+201,,oxaloacetate,C00036
+202,,2-phenylethylamine,C05332
+203,,agmatine,C00179
+204,,fecosterol,C04525
+205,,S-adenosyl-L-methionine,C00019
+206,,biuret,C06555
+207,,L-homoserine,C00263
+208,,2-Acetamido-2-deoxy-D-mannose,C00645
+209,,isobutanol,C14710
+210,,(S)-3-methyl-2-oxopentanoate,C00671
+211,,thiamin diphosphate,C00068
+212,,FMN,C00061
+213,,glucosaminate,C03752
+214,,"1,2-Propanediol",C00583
+215,,D-mannose 6-phosphate,C00275
+216,,2-phosphoglycolate,C00988
+217,,2-isopropylmalate,C02504
+218,,L-methionine S-oxide,C02989
+219,,phenylacetaldehyde,C00601
+220,,D-carnitine,C15025
+221,,glyoxylate,C00048
+222,,"alpha,alpha-Trehalose",C01083
+223,,S-methyl-L-methionine,C03172
+224,,dTTP,C00459
+225,,zymosterol,C05437
+226,,8-amino-7-oxononanoate,C01092
+227,,14-demethyllanosterol,C11455
+228,,trans-4-hydroxy-L-proline,C01157
+229,,5-aminopentanoate,C00431
+230,,aminoacetaldehyde,C06735
+231,,xylitol,C00379
+232,,2-phenylethanol,C05853
+233,,1-acylglycerophosphocholine,C04230
+234,,D-arabinitol,C01904
+235,,3-phospho-D-glycerate,C00197
