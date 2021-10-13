@@ -534,3 +534,19 @@ df_lacto.to_csv('Calbicans_LRhamnosus_EpithelialCells_Interaction/results/lacto_
 df_recon.to_csv('Calbicans_LRhamnosus_EpithelialCells_Interaction/results/recon_fva_pro_adj_bound.csv')
 df_candida.to_csv('Calbicans_LRhamnosus_EpithelialCells_Interaction/results/candida_fva_adj_bound.csv')
 
+#make a table containing information for all reaction changes of Candida model in EC+Lr vs EC at 12hr
+table = pd.concat([ref_fva_candida_all_conds[0][0],adp_fva_candida_all_conds[0][0]],axis=1)
+table = pd.concat([table,ref_fva_candida_all_conds[0][1]],axis=1)
+table = pd.concat([table,adp_fva_candida_all_conds[0][1]],axis=1)
+table = pd.concat([table,adp_fva_candida_all_conds[0][2]],axis=1)
+table = pd.concat([table,adp_fva_candida_all_conds[0][3]],axis=1)
+candida_rxns = candida_rxns.drop('Unnamed: 0',axis=1)
+candida_rxns.index = candida_rxns['ID']
+candida_rxns = candida_rxns.drop('ID',axis=1)
+table = pd.merge(table,candida_rxns,left_index=True,right_index=True)
+table.columns = ['blank6_lb','blank6_ub','EC6_lb','EC6_ub',
+                 'blank12_lb','blank12_ub','EC12_lb','EC12_ub',
+                 'Lr+EC6_lb','Lr+EC6_ub','Lr+EC12_lb','Lr+EC12_ub',
+                 'Name','EC','Equation','Subsystem','Gene association']
+table = table.sort_values(by='Subsystem')
+table.to_csv('Documents/candilactoepi_hube/added_files_by_me/results/updated_results_19_NOV/all_candida_rxns_metabolome_adj_bounds_complete.csv')
