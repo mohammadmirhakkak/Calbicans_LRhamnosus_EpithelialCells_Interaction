@@ -1,1 +1,11 @@
 The results of the codes in Calbicans_LRhamnosus_EpithelialCells_Interaction/src are saved in this directory
+
+fva_lr_iec.csv -> contains metabolic modeling simulation results in Figure.3E & Figure.S4
+
+lacto_fva_adj_bound.csv -> contains metabolic modeling simulation results in Figure.2G
+
+candida_fva_adj_bound.csv -> contains metabolic modeling simulation results in Figure.S3
+
+recon_fva_adj_bound.csv -> contains metabolic modeling simulation results in Figure.S3
+
+all_candida_rxns_metabolome_adj_bounds_complete.csv -> contains metabolic modeling simulation results in Figure.5
