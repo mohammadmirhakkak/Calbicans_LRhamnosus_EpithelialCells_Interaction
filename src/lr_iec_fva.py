@@ -951,6 +951,6 @@ results2 = pd.DataFrame({'lr_6_blank':mean_values_all[0],
 
 results = pd.merge(results1,results2,how='outer',left_index=True,right_index=True)
 
-results.to_csv('Calbicans_LRhamnosus_EpithelialCells_Interaction/results/biolog_vs_metabolome.csv')
+#results.to_csv('Calbicans_LRhamnosus_EpithelialCells_Interaction/results/biolog_vs_metabolome.csv')
 
 fva_df.to_csv('Calbicans_LRhamnosus_EpithelialCells_Interaction/results/fva_lr_iec.csv')
